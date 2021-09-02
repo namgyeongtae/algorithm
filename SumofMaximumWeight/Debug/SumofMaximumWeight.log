@@ -1,0 +1,19 @@
+﻿  SumofMaximumWeight.cpp
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\SumofMaximumWeight\SumofMaximumWeight.cpp(16,62): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\SumofMaximumWeight\SumofMaximumWeight.cpp(84,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(249,61): warning C4244: '초기화 중': '_Ty'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\SumofMaximumWeight\SumofMaximumWeight.cpp(71): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<std::pair<int,int>,int>::pair<std::pair<int,int>,__int64,0>(std::pair<std::pair<int,int>,__int64> &&) noexcept'에 대한 참조를 확인하세요.
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\SumofMaximumWeight\SumofMaximumWeight.cpp(71): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<std::pair<int,int>,int>::pair<std::pair<int,int>,__int64,0>(std::pair<std::pair<int,int>,__int64> &&) noexcept'에 대한 참조를 확인하세요.
+  SumofMaximumWeight.vcxproj -> C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\SumofMaximumWeight\Debug\SumofMaximumWeight.exe

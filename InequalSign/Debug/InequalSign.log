@@ -1,0 +1,4 @@
+﻿  InequalSign.cpp
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\InequalSign\InequalSign.cpp(18,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\InequalSign\InequalSign.cpp(31,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  InequalSign.vcxproj -> C:\Users\gotsu\OneDrive\바탕 화면\AtCoder\Beginners\InequalSign\Debug\InequalSign.exe
