@@ -45,6 +45,7 @@ void dfs(int cnt, char arr[], char friends[], vector<string> data)
         return;
     }
     
+    // BackTracking 해가며 순열 탐색
     for (int i = 0; i < 8; i++)
     {
         if (check[i]) continue;
